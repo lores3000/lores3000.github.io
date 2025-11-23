@@ -1,0 +1,65 @@
+ID,Unit,Type,Prompt,Answer,Base,Ending,Translation
+u1_verb_vocare_1_sg,1,Verb,vocō,vocō,voc,ō,ich rufe
+u1_verb_vocare_2_sg,1,Verb,vocās,vocās,voc,ās,du rufst
+u1_verb_vocare_3_sg,1,Verb,vocat,vocat,voc,at,er/sie/es ruft
+u1_verb_vocare_1_pl,1,Verb,vocāmus,vocāmus,voc,āmus,wir rufen
+u1_verb_vocare_2_pl,1,Verb,vocātis,vocātis,voc,ātis,ihr ruft
+u1_verb_vocare_3_pl,1,Verb,vocant,vocant,voc,ant,sie rufen
+u1_verb_vocare_imp_sg,1,Verb,vocā,vocā,voc,ā,rufe
+u1_verb_vocare_imp_pl,1,Verb,vocāte,vocāte,voc,āte,ruft
+u1_verb_videre_1_sg,1,Verb,videō,videō,vid,eō,ich sehe
+u1_verb_videre_2_sg,1,Verb,vidēs,vidēs,vid,ēs,du siehst
+u1_verb_videre_3_sg,1,Verb,videt,videt,vid,et,er/sie/es sieht
+u1_verb_videre_1_pl,1,Verb,vidēmus,vidēmus,vid,ēmus,wir sehen
+u1_verb_videre_2_pl,1,Verb,vidētis,vidētis,vid,ētis,ihr seht
+u1_verb_videre_3_pl,1,Verb,vident,vident,vid,ent,sie sehen
+u1_verb_videre_imp_sg,1,Verb,vidē,vidē,vid,ē,sieh
+u1_verb_videre_imp_pl,1,Verb,vidēte,vidēte,vid,ēte,seht
+u1_verb_audire_1_sg,1,Verb,audiō,audiō,aud,iō,ich höre
+u1_verb_audire_2_sg,1,Verb,audīs,audīs,aud,īs,du hörst
+u1_verb_audire_3_sg,1,Verb,audit,audit,aud,it,er/sie/es hört
+u1_verb_audire_1_pl,1,Verb,audīmus,audīmus,aud,īmus,wir hören
+u1_verb_audire_2_pl,1,Verb,audītis,audītis,aud,ītis,ihr hört
+u1_verb_audire_3_pl,1,Verb,audiunt,audiunt,aud,iunt,sie hören
+u1_verb_audire_imp_sg,1,Verb,audī,audī,aud,ī,höre
+u1_verb_audire_imp_pl,1,Verb,audīte,audīte,aud,īte,hört
+u1_verb_esse_1_sg,1,Verb,sum,sum,su,m,ich bin
+u1_verb_esse_2_sg,1,Verb,es,es,e,s,du bist
+u1_verb_esse_3_sg,1,Verb,est,est,e,st,er/sie/es ist
+u1_verb_esse_1_pl,1,Verb,sumus,sumus,su,mus,wir sind
+u1_verb_esse_2_pl,1,Verb,estis,estis,e,stis,ihr seid
+u1_verb_esse_3_pl,1,Verb,sunt,sunt,su,nt,sie sind
+u1_verb_esse_imp_sg,1,Verb,es,es,e,s,sei
+u1_verb_esse_imp_pl,1,Verb,este,este,e,ste,seid
+u2_verb_dicere_1_sg,2,Verb,dicō,dicō,dic,ō,ich sage
+u2_verb_dicere_2_sg,2,Verb,dicis,dicis,dic,is,du sagst
+u2_verb_dicere_3_sg,2,Verb,dicit,dicit,dic,it,er/sie/es sagt
+u2_verb_dicere_1_pl,2,Verb,dicimus,dicimus,dic,imus,wir sagen
+u2_verb_dicere_2_pl,2,Verb,dicitis,dicitis,dic,itis,ihr sagt
+u2_verb_dicere_3_pl,2,Verb,dicunt,dicunt,dic,unt,sie sagen
+u2_verb_dicere_imp_sg,2,Verb,dic,dic,dic,,sage
+u2_verb_dicere_imp_pl,2,Verb,dicite,dicite,dic,ite,sagt
+u2_verb_capere_1_sg,2,Verb,capiō,capiō,cap,iō,"ich fange, ich nehme"
+u2_verb_capere_2_sg,2,Verb,capis,capis,cap,is,"du fängst, du nimmst"
+u2_verb_capere_3_sg,2,Verb,capit,capit,cap,it,"er/sie/es fängt, er/sie/es nimmt"
+u2_verb_capere_1_pl,2,Verb,capimus,capimus,cap,imus,"wir fangen, wir nehmen"
+u2_verb_capere_2_pl,2,Verb,capitis,capitis,cap,itis,"ihr fangt, ihr nehmt"
+u2_verb_capere_3_pl,2,Verb,capiunt,capiunt,cap,iunt,"sie fangen, sie nehmen"
+u2_verb_capere_imp_sg,2,Verb,cape,cape,cap,e,"fange, nimm"
+u2_verb_capere_imp_pl,2,Verb,capite,capite,cap,ite,"fangt, nehmt"
+u2_noun_servus_nom_sg,2,Noun,servus,servus,serv,us,der Sklave
+u2_noun_servus_nom_pl,2,Noun,servī,servī,serv,ī,die Sklaven
+u2_noun_servus_dat_sg,2,Noun,servō,servō,serv,ō,dem Sklaven
+u2_noun_servus_dat_pl,2,Noun,servīs,servīs,serv,īs,den Sklaven
+u2_noun_amica_nom_sg,2,Noun,amica,amica,amic,a,die Freundin
+u2_noun_amica_nom_pl,2,Noun,amicae,amicae,amic,ae,die Freundinnen
+u2_noun_amica_dat_sg,2,Noun,amicae,amicae,amic,ae,der Freundin
+u2_noun_amica_dat_pl,2,Noun,amīcīs,amīcīs,amīc,īs,den Freundinnen
+u2_noun_senator_nom_sg,2,Noun,senātor,senātor,senāt,or,der Senator
+u2_noun_senator_nom_pl,2,Noun,senātōrēs,senātōrēs,senāt,ōrēs,die Senatoren
+u2_noun_senator_dat_sg,2,Noun,senātōrī,senātōrī,senāt,ōrī,dem Senator
+u2_noun_senator_dat_pl,2,Noun,senātōribus,senātōribus,senāt,ōribus,den Senatoren
+u2_noun_forum_nom_sg,2,Noun,forum,forum,for,um,das Forum
+u2_noun_forum_nom_pl,2,Noun,fora,fora,for,a,die Foren
+u2_noun_forum_dat_sg,2,Noun,forō,forō,for,ō,dem Forum
+u2_noun_forum_dat_pl,2,Noun,forīs,forīs,for,īs,den Foren
